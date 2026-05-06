@@ -19,11 +19,14 @@ Tenho experiência prática com provisionamento de infraestrutura, troubleshooti
   <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" height="105"/>
 </a>
 
+AWS Certified Cloud Practitioner
+
 <a href="https://www.credly.com/badges/e631dc5c-c8d7-4aa3-8a15-e66cc871918b/public_url" target="_blank">
   <img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
 </a>
 
-AWS Certified Cloud Practitioner
+AWS Re/Start Graduate
+
 ---
 ## 🚀 Tecnologias & Ferramentas
 
