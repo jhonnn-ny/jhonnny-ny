@@ -39,52 +39,57 @@ AWS Certified Cloud Practitioner
 
 ## 📊 Projetos em Destaque
 
-### 🔹 AWS EC2 Troubleshooting Lab
+### 🥇 🔹 [AWS Route 53 Failover](https://github.com/jhonnn-ny/AWS-Route-53-Failover)
 
-📌 Simulação de falha em instância e recuperação
+📌 Alta disponibilidade com failover automático  
 
-**Stack:** EC2, IAM, SSH, Linux
+**Stack:** Route 53, EC2  
 
-✔️ Diagnóstico de falha de acesso SSH
-✔️ Correção de permissões e segurança
-✔️ Tempo médio de resolução: **~15 minutos**
-
----
-
-### 🔹 AWS Route 53 Failover
-
-📌 Alta disponibilidade com failover automático
-
-**Stack:** Route 53, EC2
-
-✔️ Configuração de failover DNS
-✔️ Simulação de queda de servidor
-✔️ Tempo de resposta ao failover: **< 30s**
+✔️ Configuração de failover DNS  
+✔️ Simulação de queda de servidor  
+✔️ Tempo de resposta ao failover: **< 30s**  
+⭐ **Destaque: Alta disponibilidade (conceito chave em Cloud)**  
 
 ---
 
-### 🔹 Auto Scaling Group Lab
+### 🥈 🔹 [Auto Scaling Group Lab](https://github.com/jhonnn-ny/AWS-ASG-Lab)
 
-📌 Escalabilidade automática baseada em carga
+📌 Escalabilidade automática baseada em carga  
 
-**Stack:** EC2, ASG, CloudWatch
+**Stack:** EC2, ASG, CloudWatch  
 
-✔️ Criação de política de escala automática
-✔️ Simulação de aumento de carga
-✔️ Redução de indisponibilidade em picos
+✔️ Criação de política de escala automática  
+✔️ Simulação de aumento de carga  
+✔️ Redução de indisponibilidade em picos  
+⭐ **Destaque: Escalabilidade (muito valorizado em DevOps)**  
 
 ---
 
-### 🔹 Monitoramento com Zabbix
+### 🥉 🔹 [AWS EC2 Troubleshooting Lab](https://github.com/jhonnn-ny/Lab-Troubleshooting-EC2-Instance)
 
-📌 Observabilidade de infraestrutura
+📌 Simulação de falha em instância e recuperação  
 
-**Stack:** EC2, Linux, Zabbix
+**Stack:** EC2, IAM, SSH, Linux  
 
-✔️ Monitoramento de CPU, memória e rede
-✔️ Alertas configurados
-✔️ Detecção de incidentes em tempo real
+✔️ Diagnóstico de falha de acesso SSH  
+✔️ Correção de permissões e segurança  
+✔️ Tempo médio de resolução: **~15 minutos**  
+⭐ **Destaque: Troubleshooting real (essencial pra Jr)**  
 
+---
+
+### 🏅 🔹 Monitoramento com Zabbix
+
+📌 Observabilidade de infraestrutura  
+
+**Stack:** EC2, Linux, Zabbix  
+
+✔️ Monitoramento de CPU, memória e rede  
+✔️ Alertas configurados  
+✔️ Detecção de incidentes em tempo real  
+⭐ **Destaque: Observabilidade e monitoramento**  
+
+🔗 *(adicione aqui o link quando subir o repositório)*  
 ---
 
 ## 📈 Métricas (Ambiente de Laboratório)
@@ -93,12 +98,6 @@ AWS Certified Cloud Practitioner
 * ⚡ Provisionamento de infraestrutura: **~5 min (EC2)**
 * 📊 Monitoramento com alertas em tempo real
 * 🔁 Simulações de failover e auto scaling funcionais
-
----
-
-## 📜 Certificações
-
-* 🏅 AWS Cloud Practitioner – Escola da Nuvem
 
 ---
 
