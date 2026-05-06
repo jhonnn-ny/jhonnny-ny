@@ -75,21 +75,7 @@ AWS Certified Cloud Practitioner
 ✔️ Correção de permissões e segurança  
 ✔️ Tempo médio de resolução: **~15 minutos**  
 ⭐ **Destaque: Troubleshooting real (essencial pra Jr)**  
-
----
-
-### 🏅 🔹 Monitoramento com Zabbix
-
-📌 Observabilidade de infraestrutura  
-
-**Stack:** EC2, Linux, Zabbix  
-
-✔️ Monitoramento de CPU, memória e rede  
-✔️ Alertas configurados  
-✔️ Detecção de incidentes em tempo real  
-⭐ **Destaque: Observabilidade e monitoramento**  
-
-🔗 *(adicione aqui o link quando subir o repositório)*  
+  
 ---
 
 ## 📈 Métricas (Ambiente de Laboratório)
