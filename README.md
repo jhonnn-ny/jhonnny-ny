@@ -20,6 +20,7 @@ Tenho experiência prática com provisionamento de infraestrutura, troubleshooti
 </a>
 
 - AWS Cloud Practitioner – Escola da Nuvem  
+---
 ## 🚀 Tecnologias & Ferramentas
 
 ![Skills](https://skillicons.dev/icons?i=aws,linux,docker,terraform,git,github,python,bash)
