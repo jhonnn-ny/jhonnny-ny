@@ -86,9 +86,9 @@ AWS Certified Cloud Practitioner
 
 ## 🧩 GitHub Stats
 
-| Estatísticas                                                                                    | Sequência                                                        |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ![](https://github-readme-stats.vercel.app/api?username=jhonnn-ny\&show_icons=true\&theme=dark) | ![](https://streak-stats.demolab.com?user=jhonnn-ny\&theme=dark) |
+| Estatísticas                                                                                    |
+| ----------------------------------------------------------------------------------------------- |
+| ![](https://github-readme-stats.vercel.app/api?username=jhonnn-ny\&show_icons=true\&theme=dark) |
 
 ---
 
