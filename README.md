@@ -15,17 +15,13 @@ Tenho experiência prática com provisionamento de infraestrutura, troubleshooti
 ---
 ## 📜 Certificações  
 
-<a href="([link do comprovante](https://www.credly.com/badges/e631dc5c-c8d7-4aa3-8a15-e66cc871918b/public_url))" target="_blank">
+<a href="https://www.credly.com/badges/72d8712a-c6eb-4d3d-99ef-50a06a3f6069/public_url" target="_blank">
+  <img src="https://images.credly.com/..." height="105"/>
+</a>
+
+<a href="https://www.credly.com/badges/e631dc5c-c8d7-4aa3-8a15-e66cc871918b/public_url" target="_blank">
   <img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
 </a>
-- AWS Cloud Practitioner – Escola da Nuvem  
-
-<a href="([link do comprovante](https://www.credly.com/badges/e631dc5c-c8d7-4aa3-8a15-e66cc871918b/public_url))" target="_blank">
-  <img src="<img width="512" height="512" alt="twitter_thumb_201604_image" src="https://github.com/user-attachments/assets/89e22edb-42fa-41b7-8635-7c50925e2374" />" height="105"/>
-</a>
-
-- AWS re/Start Graduate
-
 ---
 ## 🚀 Tecnologias & Ferramentas
 
