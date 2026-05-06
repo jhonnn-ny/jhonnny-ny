@@ -48,7 +48,6 @@ AWS Certified Cloud Practitioner
 ✔️ Configuração de failover DNS  
 ✔️ Simulação de queda de servidor  
 ✔️ Tempo de resposta ao failover: **< 30s**  
-⭐ **Destaque: Alta disponibilidade (conceito chave em Cloud)**  
 
 ---
 
@@ -61,7 +60,6 @@ AWS Certified Cloud Practitioner
 ✔️ Criação de política de escala automática  
 ✔️ Simulação de aumento de carga  
 ✔️ Redução de indisponibilidade em picos  
-⭐ **Destaque: Escalabilidade (muito valorizado em DevOps)**  
 
 ---
 
@@ -74,7 +72,6 @@ AWS Certified Cloud Practitioner
 ✔️ Diagnóstico de falha de acesso SSH  
 ✔️ Correção de permissões e segurança  
 ✔️ Tempo médio de resolução: **~15 minutos**  
-⭐ **Destaque: Troubleshooting real (essencial pra Jr)**  
   
 ---
 
@@ -98,7 +95,7 @@ AWS Certified Cloud Practitioner
 ## 📫 Contato
 
 * 💼 LinkedIn: https://www.linkedin.com/in/jhonatan-alves0
-* 📧 Email: (adicione aqui)
+* 📧 Email: jhonnyxalves3224@gmail.com
 
 ---
 
