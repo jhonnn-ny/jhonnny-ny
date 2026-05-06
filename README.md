@@ -1,123 +1,93 @@
 # 👋 Olá, eu sou Jhonatan Alves
 
-💻 Em transição para Tecnologia | ☁️ Foco em Cloud & DevOps | 📍 Brasil
+💻 Em transição para Tecnologia | ☁️ Cloud & DevOps | 📍 Brasil
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Sobre mim | 🚀 Tecnologias & Ferramentas
 
-Sou profissional em transição de carreira com foco em **Cloud Computing (AWS)** e práticas iniciais de **DevOps**.
-Tenho experiência prática com provisionamento de infraestrutura, troubleshooting e monitoramento em ambientes simulados.
+| 🧠 Sobre mim | 🚀 Tecnologias |
+| ------------ | -------------- |
+|              |                |
 
-🔎 Busco oportunidades como:
-**Analista de Suporte | Cloud Jr | DevOps Jr | NOC | Infraestrutura**
+* Foco em **Cloud Computing (AWS)**
+* Estudando **DevOps e automação**
+* Experiência com **labs práticos reais**
+* Interesse em **Suporte, Infraestrutura e NOC**
+  |
+  ![Skills](https://skillicons.dev/icons?i=aws,linux,docker,terraform,git,github,python,bash)
+  |
 
 ---
-## 📜 Certificações  
+
+## 📊 Projetos | 📈 Métricas
+
+| 📊 Projetos em Destaque        | 📈 Métricas (Labs) |
+| ------------------------------ | ------------------ |
+|                                |                    |
+| 🔹 **AWS EC2 Troubleshooting** |                    |
+
+* Diagnóstico de falhas SSH
+* Correção de permissões
+* Resolução: **~15 min**
+
+🔹 **Route 53 Failover**
+
+* Alta disponibilidade DNS
+* Failover automático
+* Resposta: **<30s**
+
+🔹 **Auto Scaling Group**
+
+* Escalabilidade automática
+* Simulação de carga
+
+🔹 **Zabbix Monitoring**
+
+* Monitoramento em tempo real
+* Alertas configurados
+  |
+* ⏱️ Troubleshooting: **10–20 min**
+* ⚡ Provisionamento EC2: **~5 min**
+* 🔁 Failover funcional
+* 📊 Monitoramento ativo
+  |
+
+---
+
+## 📜 Certificações | 🧩 GitHub Stats
+
+| 📜 Certificações | 🧩 Estatísticas |
+| ---------------- | --------------- |
+|                  |                 |
 
 <a href="(link do comprovante)" target="_blank">
   <img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
 </a>
 
-- AWS Cloud Practitioner – Escola da Nuvem  
+AWS Cloud Practitioner
+|
+![](https://github-readme-stats.vercel.app/api?username=jhonnn-ny\&show_icons=true\&theme=dark)
 
-## 🚀 Tecnologias & Ferramentas
-
-![Skills](https://skillicons.dev/icons?i=aws,linux,docker,terraform,git,github,python,bash)
-
-* ☁️ AWS: EC2, S3, IAM, VPC, Route 53, Auto Scaling
-* 🐧 Linux (Ubuntu)
-* ⚙️ Infraestrutura como Código (Terraform - básico)
-* 🔄 Versionamento com Git & GitHub
-* 📊 Monitoramento: Zabbix (lab prático)
+![](https://streak-stats.demolab.com?user=jhonnn-ny\&theme=dark)
+|
 
 ---
 
-## 📊 Projetos em Destaque
+## 📫 Contato | 🔑 Palavras-chave (ATS)
 
-### 🔹 AWS EC2 Troubleshooting Lab
+| 📫 Contato                                  | 🔑 ATS |
+| ------------------------------------------- | ------ |
+|                                             |        |
+| 💼 LinkedIn:                                |        |
+| https://www.linkedin.com/in/jhonatan-alves0 |        |
 
-📌 Simulação de falha em instância e recuperação
-
-**Stack:** EC2, IAM, SSH, Linux
-
-✔️ Diagnóstico de falha de acesso SSH
-✔️ Correção de permissões e segurança
-✔️ Tempo médio de resolução: **~15 minutos**
-
----
-
-### 🔹 AWS Route 53 Failover
-
-📌 Alta disponibilidade com failover automático
-
-**Stack:** Route 53, EC2
-
-✔️ Configuração de failover DNS
-✔️ Simulação de queda de servidor
-✔️ Tempo de resposta ao failover: **< 30s**
+📧 Email: (adicione aqui)
+|
+Cloud Computing • AWS • EC2 • S3 • IAM • VPC •
+Route 53 • Auto Scaling • Linux • DevOps •
+Infraestrutura • Monitoramento • Zabbix •
+Git • Terraform • CI/CD • Suporte Técnico • NOC
+|
 
 ---
-
-### 🔹 Auto Scaling Group Lab
-
-📌 Escalabilidade automática baseada em carga
-
-**Stack:** EC2, ASG, CloudWatch
-
-✔️ Criação de política de escala automática
-✔️ Simulação de aumento de carga
-✔️ Redução de indisponibilidade em picos
-
----
-
-### 🔹 Monitoramento com Zabbix
-
-📌 Observabilidade de infraestrutura
-
-**Stack:** EC2, Linux, Zabbix
-
-✔️ Monitoramento de CPU, memória e rede
-✔️ Alertas configurados
-✔️ Detecção de incidentes em tempo real
-
----
-
-## 📈 Métricas (Ambiente de Laboratório)
-
-* ⏱️ Tempo médio de troubleshooting: **10–20 min**
-* ⚡ Provisionamento de infraestrutura: **~5 min (EC2)**
-* 📊 Monitoramento com alertas em tempo real
-* 🔁 Simulações de failover e auto scaling funcionais
-
----
-
-## 📜 Certificações
-
-* 🏅 AWS Cloud Practitioner – Escola da Nuvem
-
----
-
-## 🧩 GitHub Stats
-
-| Estatísticas                                                                                    | Sequência                                                        |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ![](https://github-readme-stats.vercel.app/api?username=jhonnn-ny\&show_icons=true\&theme=dark) | ![](https://streak-stats.demolab.com?user=jhonnn-ny\&theme=dark) |
-
----
-
-## 📫 Contato
-
-* 💼 LinkedIn: https://www.linkedin.com/in/jhonatan-alves0
-* 📧 Email: (adicione aqui)
-
----
-
-## 🔑 Palavras-chave (ATS)
-
-Cloud Computing • AWS • EC2 • S3 • IAM • VPC • Route 53 • Auto Scaling •
-Linux • Troubleshooting • DevOps • Infraestrutura • Monitoramento • Zabbix •
-Git • CI/CD (conceitos) • Terraform (básico) • Suporte Técnico • NOC
-
----
-# jhonnny-ny
