@@ -13,6 +13,13 @@ Tenho experiência prática com provisionamento de infraestrutura, troubleshooti
 **Analista de Suporte | Cloud Jr | DevOps Jr | NOC | Infraestrutura**
 
 ---
+## 📜 Certificações  
+
+<a href="(link do comprovante)" target="_blank">
+  <img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
+</a>
+
+- AWS Cloud Practitioner – Escola da Nuvem  
 
 ## 🚀 Tecnologias & Ferramentas
 
